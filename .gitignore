@@ -1,0 +1,25 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated files
+/.vs/
+/.idea/
+/.vscode/
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+
+# System files and Blender backups
+.DS_Store
+Thumbs.db
+__MACOSX/
+*.blend[0-9]
